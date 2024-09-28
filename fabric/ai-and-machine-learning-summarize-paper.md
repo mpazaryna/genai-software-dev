@@ -1,4 +1,4 @@
-**Summary of Academic Paper's Technical Approach**
+# Summary of Academic Paper's Technical Approach
 
 1. **Title and authors of the Paper:**
    The title and authors of the paper are not provided in the given text.

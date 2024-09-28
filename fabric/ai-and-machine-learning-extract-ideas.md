@@ -1,4 +1,4 @@
-# IDEAS:
+# IDEAS
 
 - Artificial intelligence could significantly alter human roles in society, challenging traditional employment models.
 
