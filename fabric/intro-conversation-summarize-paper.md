@@ -47,6 +47,7 @@ To get the most out of this specialization, a basic understanding of Python is r
 ## Let's Dive In
 
 With these courses, you'll learn how to:
+
 - Use LLMs to explain, debug, and manage code.
 - Implement best practices in test-driven development.
 - Efficiently manage dependencies and documentation.
