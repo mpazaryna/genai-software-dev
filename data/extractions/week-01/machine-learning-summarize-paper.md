@@ -5,27 +5,35 @@ Supervised learning is a foundational concept in machine learning where the syst
 ## Steps in Supervised Learning:
 
 1. **Data Collection**:
+
    - Collect a large dataset that includes input features (e.g., sensor readings) and corresponding labels (e.g., walking, running, biking).
 
-2. **Data Preprocessing**:
+1. **Data Preprocessing**:
+
    - Clean and preprocess the data to ensure it is in a suitable format for training. This might involve normalization, handling missing values, and splitting the data into training and testing sets.
 
-3. **Feature Selection**:
+1. **Feature Selection**:
+
    - Identify the most relevant features that will help the model make accurate predictions. For instance, speed, acceleration, and gyroscope readings could be relevant for activity recognition.
 
-4. **Model Selection**:
+1. **Model Selection**:
+
    - Choose an appropriate machine learning algorithm. Common algorithms for supervised learning include linear regression, decision trees, support vector machines, and neural networks.
 
-5. **Training**:
+1. **Training**:
+
    - Feed the training data into the chosen algorithm. The model makes initial predictions, compares them to the actual labels, and adjusts its parameters to minimize the error.
 
-6. **Evaluation**:
+1. **Evaluation**:
+
    - After training, evaluate the model's performance on a separate test set that the model has not seen before. Metrics such as accuracy, precision, recall, and F1 score can be used to assess performance.
 
-7. **Optimization**:
+1. **Optimization**:
+
    - Fine-tune the model by adjusting hyperparameters and possibly selecting different features or algorithms to improve performance.
 
-8. **Deployment**:
+1. **Deployment**:
+
    - Once the model is trained and evaluated, it can be deployed to make predictions on new, real-world data.
 
 ## Example Application: Activity Recognition
@@ -42,15 +50,19 @@ Supervised learning is a foundational concept in machine learning where the syst
 ## Other Forms of Machine Learning
 
 1. **Unsupervised Learning**:
+
    - Unlike supervised learning, unsupervised learning deals with unlabeled data. The goal is to find hidden patterns or intrinsic structures in the data. Common techniques include clustering (e.g., K-means) and dimensionality reduction (e.g., PCA).
 
-2. **Reinforcement Learning**:
+1. **Reinforcement Learning**:
+
    - This form of learning involves an agent that interacts with an environment and learns to make decisions by receiving rewards or penalties. It is commonly used in robotics, game playing, and autonomous systems.
 
-3. **Semi-Supervised Learning**:
+1. **Semi-Supervised Learning**:
+
    - Combines a small amount of labeled data with a large amount of unlabeled data during training. This can improve learning accuracy when labeling data is expensive or time-consuming.
 
-4. **Transfer Learning**:
+1. **Transfer Learning**:
+
    - Involves taking a pre-trained model on one task and adapting it to a new but related task. This is useful when you have limited data for the new task but plenty of data for a related task.
 
 By understanding and applying these different forms of machine learning, you can tackle a wide array of problems, from simple classification tasks to complex decision-making processes.

@@ -7,32 +7,38 @@ Welcome to this exciting journey where we explore how Generative AI can revoluti
 This specialization consists of three courses, each tailored to different aspects of software development:
 
 1. **Individual Developer Productivity**:
-    - **Introduction to LLMs**: Understand the basics of Large Language Models (LLMs) and how they can act as your coding companion.
-    - **Prompting and System Prompting**: Learn how to craft effective prompts to get the best out of LLMs.
-    - **Role-Based Assistance**: Use LLMs to simulate roles like software testers or documentation writers to streamline your workflow.
 
-2. **Collaborative Development**:
-    - **Working with Teams**: Discover how LLMs can facilitate collaboration with testers, document writers, and dependency managers.
-    - **Dependency Management**: Learn how LLMs can help manage and resolve dependencies, making your development process smoother.
-    - **Documentation and Testing**: Use LLMs to generate and manage documentation and testing procedures.
+   - **Introduction to LLMs**: Understand the basics of Large Language Models (LLMs) and how they can act as your coding companion.
+   - **Prompting and System Prompting**: Learn how to craft effective prompts to get the best out of LLMs.
+   - **Role-Based Assistance**: Use LLMs to simulate roles like software testers or documentation writers to streamline your workflow.
 
-3. **Professional Software Development**:
-    - **Design Patterns and Architecture**: Apply design patterns and architectural best practices with the help of LLMs.
-    - **Data Serialization and Database Management**: Utilize LLMs for efficient data handling and database management.
-    - **Full Workflow Integration**: Understand how to integrate LLMs into your complete software development lifecycle from design to deployment.
+1. **Collaborative Development**:
+
+   - **Working with Teams**: Discover how LLMs can facilitate collaboration with testers, document writers, and dependency managers.
+   - **Dependency Management**: Learn how LLMs can help manage and resolve dependencies, making your development process smoother.
+   - **Documentation and Testing**: Use LLMs to generate and manage documentation and testing procedures.
+
+1. **Professional Software Development**:
+
+   - **Design Patterns and Architecture**: Apply design patterns and architectural best practices with the help of LLMs.
+   - **Data Serialization and Database Management**: Utilize LLMs for efficient data handling and database management.
+   - **Full Workflow Integration**: Understand how to integrate LLMs into your complete software development lifecycle from design to deployment.
 
 ## Key Takeaways
 
 1. **Enhanced Productivity**:
-    - Studies indicate a potential 35% productivity boost when using Generative AI for coding tasks.
-    - Generative AI can help with mundane tasks, allowing developers to focus on problem-solving and innovation.
 
-2. **Increased Enjoyment**:
-    - The presence of an AI coding companion makes coding more enjoyable by reducing drudgery and sparking inspiration.
+   - Studies indicate a potential 35% productivity boost when using Generative AI for coding tasks.
+   - Generative AI can help with mundane tasks, allowing developers to focus on problem-solving and innovation.
 
-3. **Staying Relevant**:
-    - Developers who adapt to using AI tools will have a competitive edge over those who don't.
-    - AI won't replace developers but will enhance their capabilities, making their expertise more valuable than ever.
+1. **Increased Enjoyment**:
+
+   - The presence of an AI coding companion makes coding more enjoyable by reducing drudgery and sparking inspiration.
+
+1. **Staying Relevant**:
+
+   - Developers who adapt to using AI tools will have a competitive edge over those who don't.
+   - AI won't replace developers but will enhance their capabilities, making their expertise more valuable than ever.
 
 ## Future of Software Development
 

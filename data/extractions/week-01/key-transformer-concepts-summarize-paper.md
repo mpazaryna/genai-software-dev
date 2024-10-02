@@ -9,9 +9,9 @@ The attention mechanism is pivotal in allowing transformer models to focus on sp
 ### How it Works
 
 1. **Tokenization**: Text is broken into smaller pieces called tokens, which are usually words or subwords.
-2. **Embeddings**: Each token is represented as a high-dimensional vector, known as an embedding. These embeddings capture the semantic meaning of the words.
-3. **Attention Calculation**: The attention mechanism adjusts these embeddings based on the context provided by surrounding words. For instance, "little," "white," and "fluffy" would modify the embedding of "dog" to reflect these attributes.
-4. **Multiple Attention Blocks**: The model processes these embeddings through multiple layers (or attention blocks), each time refining the context and relationships between tokens.
+1. **Embeddings**: Each token is represented as a high-dimensional vector, known as an embedding. These embeddings capture the semantic meaning of the words.
+1. **Attention Calculation**: The attention mechanism adjusts these embeddings based on the context provided by surrounding words. For instance, "little," "white," and "fluffy" would modify the embedding of "dog" to reflect these attributes.
+1. **Multiple Attention Blocks**: The model processes these embeddings through multiple layers (or attention blocks), each time refining the context and relationships between tokens.
 
 ## Encoders and Decoders
 
@@ -43,9 +43,9 @@ As a software engineer, understanding these concepts can help you leverage LLMs 
 ## Summary
 
 1. **Attention Mechanism**: Focuses on relationships between words to understand context.
-2. **Tokenization and Embeddings**: Converts text into high-dimensional vectors.
-3. **Encoder-Decoder Architecture**: Encodes input into context vectors and decodes them to generate output.
-4. **Supervised Learning**: Uses labeled data to train models for predictions.
-5. **LLMs**: Built on transformers, trained on large datasets, excellent for understanding and generating text.
+1. **Tokenization and Embeddings**: Converts text into high-dimensional vectors.
+1. **Encoder-Decoder Architecture**: Encodes input into context vectors and decodes them to generate output.
+1. **Supervised Learning**: Uses labeled data to train models for predictions.
+1. **LLMs**: Built on transformers, trained on large datasets, excellent for understanding and generating text.
 
 These concepts form the backbone of many advanced NLP applications, and understanding them can significantly enhance your ability to utilize these models in various software engineering tasks.

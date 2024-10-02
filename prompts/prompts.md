@@ -40,3 +40,12 @@ to enhance it's functionality and accuracy.
 
 As a software tester, analyze this function for potential edge cases and
 suggest robust handling strategies.
+
+
+
+My code is giving me an error when I run it and I don't know what to do. Here's the code: print(f"The daily interest rate is {rate}).
+
+As a senior python programmer and friendly tutor, can you review the code and help determine the
+root cause of the daily interest rate error.  Analyze the funtion for potential edge
+cases and suggest an error handling strategy. Here's the code: print(f"The daily interest rate is {rate}).
+The code is giving an error, but I'm unable to understand the error message.
