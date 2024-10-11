@@ -1,6 +1,6 @@
 # Prompt Examples
 
-profile the new code from the point of view of an expert in mitigating denial-of-service attacks, and to help you update the 
+Profile the new code from the point of view of an expert in mitigating denial-of-service attacks, and to help you update the
 code to make sure it is safe from attack and performs well.
 
 ## Week 2
@@ -41,11 +41,18 @@ to enhance it's functionality and accuracy.
 As a software tester, analyze this function for potential edge cases and
 suggest robust handling strategies.
 
-
-
 My code is giving me an error when I run it and I don't know what to do. Here's the code: print(f"The daily interest rate is {rate}).
 
 As a senior python programmer and friendly tutor, can you review the code and help determine the
 root cause of the daily interest rate error.  Analyze the funtion for potential edge
 cases and suggest an error handling strategy. Here's the code: print(f"The daily interest rate is {rate}).
 The code is giving an error, but I'm unable to understand the error message.
+
+## Week 3 Exploring More about code
+
+Can you go into more detail about the note you identified about Linked List issues and show how Higher Risk of Memory Leaks: - Improper
+management of node references can lead to memory leaks, especially in languages without automatic garbage collection.
+
+Take on the role of an expert software developer at a company that suffers from denial of service attacks.  If I implement
+some routines with code like this, what risks am I facing?
+

@@ -1,4 +1,4 @@
-# Summary of Academic Paper's Technical Approach
+# Generating Code with Chatbots
 
 ## Title and authors of the Paper:
 
