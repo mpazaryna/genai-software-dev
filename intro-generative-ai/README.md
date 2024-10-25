@@ -1,8 +1,8 @@
 # Coursera: Generative AI for Software Development
 
-![header](header.png)
+![header](assets/intro-header.png)
 
-![about](about.png)
+![about](assets/intro-about.png)
 
 [Course](https://www.coursera.org/professional-certificates/generative-ai-for-software-development)
 
