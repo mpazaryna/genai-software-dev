@@ -4,7 +4,6 @@
 
 ![about](about.png)
 
-
 [Course](https://www.coursera.org/professional-certificates/generative-ai-for-software-development)
 
 ## What you'll learn
