@@ -1,4 +1,4 @@
-# ONE SENTENCE SUMMARY
+# ANALYZE FOR SECURITY
 
 Using an LLM to identify and mitigate security vulnerabilities in code involves profiling, generating test cases, and iteratively refining the code with expert oversight.
 

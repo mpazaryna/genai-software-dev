@@ -1,4 +1,4 @@
-# ONE SENTENCE SUMMARY
+# EXPLORATORY TESTING
 
 The video explores using exploratory testing with an LLM for Python apps, focusing on identifying bugs and potential improvements.
 
