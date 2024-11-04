@@ -11,20 +11,19 @@ make html
 
 ### Week 01
 
-- [01 Analyze For Security Summarize Paper](transcripts/summaries/week-01/01-analyze-for-security-summarize-paper.md)
-- [01 Exploratory Testing Summarize Paper](transcripts/summaries/week-01/01-exploratory-testing-summarize-paper.md)
-- [01 Intro Summarize Paper](transcripts/summaries/week-01/01-intro-summarize-paper.md)
-- [01 Module Introduction Summarize Paper](transcripts/summaries/week-01/01-module-introduction-summarize-paper.md)
-- [01 Performance Testing Summarize Paper](transcripts/summaries/week-01/01-performance-testing-summarize-paper.md)
-- [01 Security Summarize Paper](transcripts/summaries/week-01/01-security-summarize-paper.md)
-- [01 Software Performance Testing Summarize Paper](transcripts/summaries/week-01/01-software-performance-testing-summarize-paper.md)
+- [Analyze For Security](transcripts/summaries/week-01/analyze-for-security.md)
+- [Exploratory Testing](transcripts/summaries/week-01/exploratory-testing.md)
+- [Intro](transcripts/summaries/week-01/intro.md)
+- [Module Introduction](transcripts/summaries/week-01/module-introduction.md)
+- [Performance Testing](transcripts/summaries/week-01/performance-testing.md)
+- [Security](transcripts/summaries/week-01/security.md)
 
 ### Week 02
 
-- [02 Doc Strings Summarize Paper](transcripts/summaries/week-02/02-doc-strings-summarize-paper.md)
-- [02 Inline Comments Summarize Paper](transcripts/summaries/week-02/02-inline-comments-summarize-paper.md)
-- [02 Intro Summarize Paper](transcripts/summaries/week-02/02-intro-summarize-paper.md)
-- [02 Principles Of Good Docs Summarize Paper](transcripts/summaries/week-02/02-principles-of-good-docs-summarize-paper.md)
+- [Doc String](transcripts/summaries/week-02/doc-string.md)
+- [Inline Comments](transcripts/summaries/week-02/inline-comments.md)
+- [Intro](transcripts/summaries/week-02/intro.md)
+- [Principles Of Good Docs](transcripts/summaries/week-02/principles-of-good-docs.md)
 
 ### Week 03
 
