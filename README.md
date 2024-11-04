@@ -2,4 +2,14 @@
 
 ![header](assets/course-header.png)
 
-![about](assets/course-about.png)
+## Module 1: Introduction to Generative AI
+
+- [README](01-intro-gen-ai/README.md)
+- 
+
+## Module 2: Team Engineering
+
+[README](02-team-engineering/README.md)
+
+
+
