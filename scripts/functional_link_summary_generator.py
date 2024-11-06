@@ -19,8 +19,8 @@ def load_config(config_path: str) -> dict:
         with open(config_path, "r") as f:
             config = yaml.safe_load(f)
 
-        # Get project root (2 levels up from script location - scripts/config.yaml)
-        project_root = Path(config_path).parent.parent
+        # Get project root (same directory as config.yaml)
+        project_root = Path(config_path).parent
         config["module_path"] = str(project_root / config["module_path"])
         return config
 

@@ -2,3 +2,7 @@
 module: "02-team-engineering" # Module name
 module_path: "02-team-engineering" # Path to the module directory
 readme_path: "README.md" # Relative path to README within module
+
+# File processing configuration
+input_dir: "03-system-design/transcripts/raw/module-01" # Directory containing input files
+output_dir: "03-system-design/transcripts/summaries/module-01" # Directory for output files
