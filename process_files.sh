@@ -1,10 +1,7 @@
 #!/bin/bash
 
-# Directory containing the input files
-INPUT_DIR="transcripts/raw/module-01"
-
-# Directory for output files
-OUTPUT_DIR="transcripts/summaries/module-01"
+# Source the configuration file
+source config.sh
 
 # Create the output directory if it doesn't exist
 mkdir -p "$OUTPUT_DIR"

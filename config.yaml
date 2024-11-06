@@ -1,0 +1,4 @@
+# config.yml
+module: "02-team-engineering" # Module name
+module_path: "02-team-engineering" # Path to the module directory
+readme_path: "README.md" # Relative path to README within module
