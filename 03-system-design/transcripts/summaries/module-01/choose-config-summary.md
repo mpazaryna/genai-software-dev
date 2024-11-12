@@ -1,7 +1,9 @@
 # ONE SENTENCE SUMMARY:
+
 External configuration files in JSON or YAML format enhance software customization, with Python's file operations and LLM prompting assisting developers.
 
 # MAIN POINTS:
+
 1. Configuration details should be externalized to configuration files for software customization.
 2. JSON and YAML are common formats for configuration files, each with pros and cons.
 3. JSON is widely used, language-independent, but lacks comment support and can be verbose.
@@ -14,6 +16,7 @@ External configuration files in JSON or YAML format enhance software customizati
 10. Proper file operations are crucial in app architecture, especially when handling JSON data.
 
 # TAKEAWAYS:
+
 1. External configuration enhances software flexibility and customizability.
 2. JSON is a practical choice for configuration files due to its universal compatibility.
 3. YAML's readability and comment support are beneficial for configuration file clarity.
